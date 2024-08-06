@@ -6,5 +6,11 @@ print(c)
 
 print("**** basic multiplication ****")
 
+print("Here is the sample output of factorial of 5")
 
-#This is a sample message created by shafi sk
+k = 1
+
+for i in range(1,5+1):
+    k *= i
+
+print(k)
