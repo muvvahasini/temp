@@ -14,3 +14,6 @@ for i in range(1,5+1):
     k *= i
 
 print(k)
+
+for  i in range(1,6):
+    print("* "*i)
