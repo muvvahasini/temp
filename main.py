@@ -30,3 +30,10 @@ abc=2
 cde=3
 print(abc*cde)
 #master
+
+#srija
+#sum
+num1=7
+num2=77
+print(num1+num2)
+#router
