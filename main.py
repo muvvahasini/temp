@@ -17,6 +17,11 @@ print(k)
 
 for  i in range(1,6):
     print("* "*i)
+    
+ #pythoncode
+#power for a number
+d=2**8
+print(d)
 
 
 #multiplication
@@ -24,3 +29,4 @@ for  i in range(1,6):
 abc=2
 cde=3
 print(abc*cde)
+#master
